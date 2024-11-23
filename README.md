@@ -40,11 +40,12 @@ C) Product Analysis: Compare performance metrics across products.
 D) Dynamic Filters: Interact with the report to explore specific periods, products, or countries.
 # 🛠️ Technologies Used
 Power BI: For data visualization and analysis.
-Microsoft Excel (Optional): For data preprocessing (if applicable).
+
+Microsoft Excel : For data preprocessing.
 💡 Usage
 # Clone this repository:
 
-git clone https://github.com/yourusername/fortune-cookies-performance.git
+git clone https://github.com/Fortune0203/Data.git
 
 Open the .pbix file in Power BI Desktop.
 
