@@ -15,9 +15,13 @@ Sales Regions
 # The data covers performance across:
 
 Canada
+
 Germany
+
 France
+
 Mexico
+
 United States
 
 # Key Features
