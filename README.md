@@ -21,10 +21,13 @@ Mexico
 United States
 
 # Key Features
-Quarterly Insights: Visualize product performance across Q1 to Q4.
-Regional Breakdown: Understand country-level sales contributions.
-Product Analysis: Compare performance metrics across products.
-Dynamic Filters: Interact with the report to explore specific periods, products, or countries.
+A) Quarterly Insights: Visualize product performance across Q1 to Q4.
+
+B) Regional Breakdown: Understand country-level sales contributions.
+
+C) Product Analysis: Compare performance metrics across products.
+
+D) Dynamic Filters: Interact with the report to explore specific periods, products, or countries.
 # 🛠️ Technologies Used
 Power BI: For data visualization and analysis.
 Microsoft Excel (Optional): For data preprocessing (if applicable).
